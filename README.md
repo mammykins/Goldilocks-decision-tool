@@ -13,7 +13,7 @@ The app uses three files: goldilocks.R, server.R and ui.R that should be placed 
 
 Alternatively users can launch the app by loading shiny in R and then running:
 
-library(shiny)
+library(shiny)  
 runGitHub( "Goldilocks-decision-tool", "mammykins")
 
 Hope this helps in getting the number of injections just right!
