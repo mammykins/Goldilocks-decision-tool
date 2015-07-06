@@ -11,8 +11,9 @@ We think the predictive model could be very useful to a wide diversity of resear
 
 The app uses three files: goldilocks.R, server.R and ui.R that should be placed into the same folder.
 
-Alternatively users can launch the app by running:
+Alternatively users can launch the app by loading shiny in R and then running:
 
+library(shiny)
 runGitHub( "Goldilocks-decision-tool", "mammykins")
 
 Hope this helps in getting the number of injections just right!
