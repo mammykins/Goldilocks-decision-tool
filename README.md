@@ -16,5 +16,7 @@ Alternatively users can launch the app by loading shiny in R and then running:
 library(shiny)  
 runGitHub( "Goldilocks-decision-tool", "mammykins")
 
+The app has also been posted on the RStudio shiny servers for your convenience if you are new to R.   https://mammykins.shinyapps.io/App-gold
+
 Hope this helps in getting the number of injections just right!
 
