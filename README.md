@@ -20,3 +20,4 @@ The app has also been posted on the RStudio shiny servers for your convenience i
 
 Hope this helps in getting the number of injections just right!
 
+N.B. 10 transgenic lines on the x-axis represents 10 or greater.
