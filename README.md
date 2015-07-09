@@ -10,9 +10,9 @@ Researchers need an estimate of the probabilities of an embryo surviving injecti
 We think the predictive model could be very useful to a wide diversity of researchers in insect molecular biology, developmental biology, disease biology and genetics.
 
 The app uses three files:  
->goldilocks.R 
->server.R
->ui.R  
+>goldilocks.R  
+>server.R  
+>ui.R    
 Place these into the same folder. Open R studio, load the shiny package and run the app rom within R studio.
 
 Alternatively users can launch the app by loading shiny in R and then running:
