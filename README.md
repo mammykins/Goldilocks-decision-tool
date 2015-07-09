@@ -1,5 +1,5 @@
 # Goldilocks-decision-tool
-‘Insect transformation with piggyBac: getting the number of injections just right’. 
+##‘Insect transformation with piggyBac: getting the number of injections just right’. 
 
 An increasing number of insect laboratories worldwide are involved in the generation of transgenic lines, with many more attempting to do so for their chosen species. Historically such research has been somewhat hit-and-miss, with different laboratories putting different amounts of effort into this process. Given the qunatitative data that has been accrued other the years we can do better than that!
 
@@ -9,12 +9,12 @@ Researchers need an estimate of the probabilities of an embryo surviving injecti
 
 We think the predictive model could be very useful to a wide diversity of researchers in insect molecular biology, developmental biology, disease biology and genetics.
 
-The app uses three files: goldilocks.R, server.R and ui.R that should be placed into the same folder.
+The app uses three files: goldilocks.R, server.R and ui.R that should be placed into the same folder. Use R studio, load the shiny package and run the app.
 
 Alternatively users can launch the app by loading shiny in R and then running:
 
-library(shiny)  
-runGitHub( "Goldilocks-decision-tool", "mammykins")
+>library(shiny)  
+>runGitHub( "Goldilocks-decision-tool", "mammykins")
 
 The app has also been posted on the RStudio shiny servers for your convenience if you are new to R.   https://mammykins.shinyapps.io/App-gold
 
