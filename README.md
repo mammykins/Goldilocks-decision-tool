@@ -12,7 +12,8 @@ We think the predictive model could be very useful to a wide diversity of resear
 The app uses three files:  
 >goldilocks.R  
 >server.R  
->ui.R    
+>ui.R  
+
 Place these into the same folder. Open R studio, load the shiny package and run the app rom within R studio.
 
 Alternatively users can launch the app by loading shiny in R and then running:
@@ -24,4 +25,4 @@ The app has also been posted on the RStudio shiny servers for your convenience i
 
 Hope this helps in getting the number of injections just right!
 
-N.B. 10 transgenic lines on the x-axis represents 10 or greater.
+*N.B. 10 transgenic lines on the x-axis represents 10 or greater.*
